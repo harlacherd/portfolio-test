@@ -2,7 +2,6 @@
 
 Personal technical writing portfolio.
 
-Examples go here:
-- Example 1
-- Example 2
-- Example 3
+- Sample: [Using hardware and software together](samples/vna-measurements.md)
+- Sample 2
+- Sample 3
