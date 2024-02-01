@@ -2,6 +2,8 @@
 
 In this topic, I walk the reader through using InstrumentStudio, a software application that mimics the visual front panel present on many types of test instruments, to perform vector network analyzer measurements with a measurement device, the PXIe-5842 with S-parameters. The customer base should already be familiar with what a vector network analyzer (VNA) does, so the focus of the topic is on navigating an application they may not be familiar with rather than explaining VNA measurement fundamentals.
 
+---
+
 ## Performing Interactive VNA Measurements in InstrumentStudio
 
 You can use InstrumentStudio to access the VNA functionality of the PXIe-5842 with S-parameters through an interactive soft front panel.
