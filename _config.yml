@@ -1,0 +1,8 @@
+title: Test Portfolio _config.yml title
+description: Test Portfolio _config.yml description
+theme: just-the-docs
+
+url: https://harlacherd.github.io/portfolio-test/
+
+# aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
